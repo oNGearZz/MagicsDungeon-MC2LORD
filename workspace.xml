@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3d8493d1-89f8-4f9e-a0ae-5e4cedc7b852" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadDocsAutomatically" value="true" />
+        <option name="downloadSourcesAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="27Ksvzvq0t73ojXfgldFWbU4j55" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../mc2lord1" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.34712642" />
+    <property name="settings.editor.selected.configurable" value="copyright" />
+  </component>
+  <component name="RunManager">
+    <configuration name="mc2lore3(vip) build" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings">
+          <MavenGeneralSettings>
+            <option name="alwaysUpdateSnapshots" value="false" />
+            <option name="checksumPolicy" value="NOT_SET" />
+            <option name="failureBehavior" value="NOT_SET" />
+            <option name="localRepository" value="" />
+            <option name="mavenHome" value="Bundled (Maven 3)" />
+            <option name="nonRecursive" value="false" />
+            <option name="outputLevel" value="INFO" />
+            <option name="pluginUpdatePolicy" value="DEFAULT" />
+            <option name="printErrorStackTraces" value="false" />
+            <option name="showDialogWithAdvancedSettings" value="false" />
+            <option name="threads" />
+            <option name="usePluginRegistry" value="false" />
+            <option name="userSettingsFile" value="" />
+            <option name="workOffline" value="false" />
+          </MavenGeneralSettings>
+        </option>
+        <option name="myRunnerSettings">
+          <MavenRunnerSettings>
+            <option name="delegateBuildToMaven" value="false" />
+            <option name="environmentProperties">
+              <map />
+            </option>
+            <option name="jreName" value="#USE_PROJECT_JDK" />
+            <option name="mavenProperties">
+              <map />
+            </option>
+            <option name="passParentEnv" value="true" />
+            <option name="runMavenInBackground" value="true" />
+            <option name="skipTests" value="false" />
+            <option name="vmOptions" value="" />
+          </MavenRunnerSettings>
+        </option>
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="package" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3d8493d1-89f8-4f9e-a0ae-5e4cedc7b852" name="Changes" comment="" />
+      <created>1649080348209</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1649080348209</updated>
+      <workItem from="1649080350257" duration="3246000" />
+      <workItem from="1649156146734" duration="614000" />
+      <workItem from="1649165289564" duration="4576000" />
+      <workItem from="1649211921533" duration="7693000" />
+      <workItem from="1649243366467" duration="955000" />
+      <workItem from="1649245438371" duration="9753000" />
+      <workItem from="1649302243709" duration="599000" />
+      <workItem from="1649318920040" duration="9184000" />
+      <workItem from="1649338111053" duration="3802000" />
+      <workItem from="1649385036030" duration="6635000" />
+      <workItem from="1649413055229" duration="4851000" />
+      <workItem from="1649467132596" duration="5169000" />
+      <workItem from="1649504898626" duration="10527000" />
+      <workItem from="1649553879104" duration="32269000" />
+      <workItem from="1649641898107" duration="9862000" />
+      <workItem from="1649655991335" duration="15621000" />
+      <workItem from="1649731804140" duration="3847000" />
+      <workItem from="1649759473762" duration="11723000" />
+      <workItem from="1649854769740" duration="6670000" />
+      <workItem from="1649906042103" duration="3486000" />
+      <workItem from="1649924697149" duration="15534000" />
+      <workItem from="1649989233916" duration="3679000" />
+      <workItem from="1650026930040" duration="2998000" />
+      <workItem from="1650076691301" duration="2440000" />
+      <workItem from="1650111575018" duration="7985000" />
+      <workItem from="1650162730425" duration="11136000" />
+      <workItem from="1650204667313" duration="2820000" />
+      <workItem from="1650250202504" duration="3956000" />
+      <workItem from="1650283664510" duration="7219000" />
+      <workItem from="1650333468152" duration="8500000" />
+      <workItem from="1650366927719" duration="7879000" />
+      <workItem from="1650422632597" duration="5129000" />
+      <workItem from="1650451391210" duration="1033000" />
+      <workItem from="1650452459236" duration="11294000" />
+      <workItem from="1650510929235" duration="3913000" />
+      <workItem from="1650532269646" duration="12788000" />
+      <workItem from="1650594526882" duration="5811000" />
+      <workItem from="1650625237357" duration="6411000" />
+      <workItem from="1650679202443" duration="8498000" />
+      <workItem from="1650711209794" duration="6507000" />
+      <workItem from="1650767018112" duration="14586000" />
+      <workItem from="1650792727071" duration="11825000" />
+      <workItem from="1650854593206" duration="6897000" />
+      <workItem from="1650882925822" duration="12467000" />
+      <workItem from="1650941419523" duration="2726000" />
+      <workItem from="1650968496793" duration="6827000" />
+      <workItem from="1651029193552" duration="3297000" />
+      <workItem from="1651057272466" duration="10164000" />
+      <workItem from="1651138690405" duration="13307000" />
+      <workItem from="1651202355713" duration="16815000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
